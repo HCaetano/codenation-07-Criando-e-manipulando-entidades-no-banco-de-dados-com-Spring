@@ -1,0 +1,16 @@
+/home/havyner/codenation/java-10/src/main/java/com/challenge/service/interfaces/ChallengeServiceInterface.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/entity/Acceleration.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/service/interfaces/ServiceInterface.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/entity/Submission.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/entity/Candidate.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/service/interfaces/AccelerationServiceInterface.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/entity/CandidateId.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/entity/SubmissionId.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/service/interfaces/CandidateServiceInterface.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/entity/Company.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/service/interfaces/SubmissionServiceInterface.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/entity/Challenge.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/service/interfaces/CompanyServiceInterface.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/entity/User.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/SpringChallengeApplication.java
+/home/havyner/codenation/java-10/src/main/java/com/challenge/service/interfaces/UserServiceInterface.java
